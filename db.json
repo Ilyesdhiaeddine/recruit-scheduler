@@ -1,0 +1,91 @@
+﻿{
+	"recruits": [
+		{
+			"endDate":"2021.02.21 23:59:59",
+			"link":"https://naverfincorp-career.com/nfin/job/detail/developer?annoId=20005127&utm_source=junior-recruit-scheduler)",
+			"description":"네이버 파이낸셜(페이) 경력 3년이하 백엔드/프론트 개발자 채용"
+		},		
+		{
+			"endDate":"2021.02.28 23:59:59",
+			"link":"https://www.notion.so/heyjoyce/85b7c21bb70c4001a6a6b962f933a020",
+			"description":"헤이조이스 백엔드개발/프론트엔드개발(신입)"
+		},
+		{
+			"endDate":"2021.02.28 23:59:59",
+			"link":"https://recruit.navercorp.com/naver/job/detail/all?annoId=20004980&utm_source=junior-recruit-scheduler",
+			"description":"네이버 쇼핑 Aggregation 플랫폼 개발 인턴십 모집(채용 연계형)"
+		},		
+		{
+			"endDate":"2021.02.28 23:59:59",
+			"link":"http://recruit.navercorp.com/naver/job/detail/developer?annoId=20004728&utm_source=junior-recruit-scheduler",
+			"description":"네이버 글로벌 검색 서비스 개발 (신입)"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://careers.kakao.com/jobs/P-11485?utm_source=junior-recruit-scheduler",
+			"description": "카카오 인프라 서비스 플랫폼 개발자 (경력 5년미만)"
+		},		
+		{
+			"endDate": "채용시까지",
+			"link": "https://abit.ly/ab180",
+			"description": "데이터 기업 AB180 엔지니어"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003170&utm_source=junior-recruit-scheduler",
+			"description": "네이버 동영상 플랫폼 (인턴)"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/f732e88b497343fa9cd2626a0885e7d2",
+			"description": "CODEF 주니어 개발자 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0",
+			"description": "당근마켓 백엔드/플랫폼 신입/인턴 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://toss.im/career/jobs?category=engineering-product&company=%ED%86%A0%EC%8A%A4%ED%8C%80",
+			"description": "토스 엔지니어 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://recruit.buzzni.com/recruit/ai-lab-ai-%eb%b0%b1%ec%97%94%eb%93%9c-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%a0%84%eb%ac%b8%ec%97%b0%ea%b5%ac%ec%9a%94%ec%9b%90-%ea%b0%80%eb%8a%a5/",
+			"description": "버즈니 AI 플랫폼 엔지니어 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/91f036e4b22041dd866682fea7516140",
+			"description": "오일나우 웹 프론트 신입/경력 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://github.com/gopax/Recruit",
+			"description": "스트리미 엔지니어 채용"
+     	},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/comento/Front-end-23adb41a65d34ca383d23f049f7b55b9",
+			"description": "코멘토 Front-end 개발자 채용"
+		},
+		{
+			"endDate": "채용시까지",
+			"link": "https://www.notion.so/71edafe219b0432da0b1959f622c9f1a",
+			"description": "스켈터랩스 소프트웨어 엔지니어 채용"
+		}
+	],
+	"seminars": [
+		{
+			"endDate": "2021.02.11 16:42:00",
+			"description": "2021년도 42 SEOUL 모집",
+			"link": "https://innovationacademy.kr/notice?board=4&post=104&utm_source=jojoldu/junior-recruit-scheduler"
+		},
+		{
+			"endDate": "2021.02.18 17:00:00",
+			"description": "2021 소프트웨어 마에스트로 모집",
+			"link": "https://www.swmaestro.org/sw/main/contents.do?menuNo=200033"
+		}
+	]
+}
